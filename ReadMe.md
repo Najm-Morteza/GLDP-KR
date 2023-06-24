@@ -15,6 +15,6 @@ Facial Expression (JAFFE) database.
 
 5. Fn_DerivativeGaussian.m: produces derivative-gaussian high-pass filters.
 
-6. Fn_CountHist: calculates the histogram of emotion-based blocks for each image.
+6. Fn_CountHist.m: calculates the histogram of emotion-based blocks for each image.
 
-7. Fn_KernelRepresentation_L2: classifies the feature vectors with the kernel representation algorithm
+7. Fn_KernelRepresentation_L2.m: classifies the feature vectors with the kernel representation algorithm
