@@ -1,4 +1,4 @@
-In this repository, MATLAB implementation of the Gaussian-Filtered Local Difference Pattern (GLDP) algorithm with classification based on kernel representation (KR) will be available soon. We proposed this algorithm for a person-independent facial expression recognition system. We introduced it in the paper "Gaussian Filtered Local Difference Pattern with Kernel Representation for Person-Independent Facial Expression Recognition" submitted to the Journal of Ambient Intelligence and Humanized Computing.
+In this repository, MATLAB implementation of the Gaussian-Filtered Local Difference Pattern (GLDP) algorithm with classification based on kernel representation (KR) will be available soon. We proposed this algorithm for a person-independent facial expression recognition system. We introduced it in the paper "---" submitted to the Journal of ----.
 
 ---
 
